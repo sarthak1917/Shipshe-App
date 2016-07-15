@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="facebook_app_id">1767572326807338</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>
